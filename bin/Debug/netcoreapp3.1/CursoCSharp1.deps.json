@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CursoCSharp1/1.0.0": {
+        "runtime": {
+          "CursoCSharp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
